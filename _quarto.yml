@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Daniel Cardoso Portela Câmara"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - about.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/daniel-câmara-5270732b3/
+      - icon: github
+        href: https://github.com/dcpcamara
+format:
+  html:
+    theme: yeti
+    css: styles.css
+
+editor: visual
+

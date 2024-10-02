@@ -1,0 +1,13 @@
+---
+title: "Dashboard InfoGripe"
+author: "Daniel C. P. Câmara"
+date: "2024-10-02"
+categories: [code, analysis, R, Shiny]
+image: "image.jpg"
+---
+
+Nesse projeto, trabalhei com a construção de uma Dashboard interativa para visualização rápida dos principais resultados obtidos semanalmente pelo projeto InfoGripe. Essa dashboard é atualizada automaticamente quando há um novo relatório InfoGripe disponível.
+
+Link para o [dashboard](https://danielcamara.shinyapps.io/dashboard_infogripe_-_online/){target="_blank"}.
+
+Link para o código pode ser obtido [aqui](https://github.com/dcpcamara/Dashboard-InfoGripe---Online){target="_blank"}.

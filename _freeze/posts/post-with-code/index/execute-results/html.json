@@ -1,0 +1,15 @@
+{
+  "hash": "0c51640cb6ef58a61b801043df303d5b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Daniel C. P. Câmara\"\ndate: \"2024-10-02\"\ncategories: [code, analysis, R, Shiny]\nimage: \"image.jpg\"\n---\n\n\n\nNesse projeto, trabalhei com a construção de uma Dashboard interativa para visualização rápida dos principais resultados obtidos semanalmente pelo projeto InfoGripe. Essa dashboard é atualizada automaticamente quando há um novo relatório InfoGripe disponível.\n\nLink para o [dashboard](https://danielcamara.shinyapps.io/dashboard_infogripe_-_online/){target=\"_blank\"}.\n\nLink para o código pode ser obtido [aqui](https://github.com/dcpcamara/Dashboard-InfoGripe---Online){target=\"_blank\"}.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

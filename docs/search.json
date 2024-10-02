@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Daniel Cardoso Portela Câmara",
+    "section": "",
+    "text": "Daniel Câmara é um cientista de dados e epidemiologista com experiência em modelagem estatística, geoprocessamento e sensoriamento remoto. Com doutorado em epidemiologia de doenças infecciosas pela Fundação Oswaldo Cruz (FIOCRUZ), ele aplicou suas habilidades em importantes organizações internacionais, como a Organização Mundial da Saúde (OMS) e Universidade de Genebra. Daniel tem uma sólida trajetória na harmonização e análise de dados complexos, contribuindo para o desenvolvimento de dashboards e relatórios automatizados que informam decisões de saúde pública. Ele busca novas oportunidades para continuar aplicando seu conhecimento em ciência de dados e epidemiologia."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Dashboard InfoGripe",
+    "section": "",
+    "text": "Nesse projeto, trabalhei com a construção de uma Dashboard interativa para visualização rápida dos principais resultados obtidos semanalmente pelo projeto InfoGripe. Essa dashboard é atualizada automaticamente quando há um novo relatório InfoGripe disponível.\nLink para o dashboard.\nLink para o código pode ser obtido aqui."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "my_website",
+    "section": "",
+    "text": "Dashboard InfoGripe\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\nShiny\n\n\n\n\n\n\n\n\n\nOct 2, 2024\n\n\nDaniel C. P. Câmara\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 29, 2024\n\n\nDaniel C. P. Câmara\n\n\n\n\n\n\nNo matching items"
+  }
+]
