@@ -5,8 +5,8 @@ date: "2024-09-29"
 categories: [news]
 ---
 
-Welcome! I expect to provide helpful insights with my portfolio and hopefully get some feedback and contact from you. Feel free to drop by my [LinkedIn profile](https://www.linkedin.com/in/daniel-câmara-5270732b3/){target="_blank"}.
-
----
-
 Bem-vindo(a)! Espero fornecer insights úteis com meu portfólio e espero obter algum feedback e contato seu. Sinta-se à vontade para visitar meu [perfil do LinkedIn](https://www.linkedin.com/in/daniel-câmara-5270732b3/){target="_blank"}.
+
+------------------------------------------------------------------------
+
+Welcome! I expect to provide helpful insights with my portfolio and hopefully get some feedback and contact from you. Feel free to drop by my [LinkedIn profile](https://www.linkedin.com/in/daniel-câmara-5270732b3/){target="_blank"}.

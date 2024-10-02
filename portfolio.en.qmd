@@ -1,0 +1,24 @@
+---
+title: "Portfolio"
+lang: en
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  feed: true
+page-layout: full
+title-block-banner: true
+multilingue:
+  languages: 
+    en: 
+      label: "English"
+      link: "portfolio.qmd"
+    pt: 
+      label: "Português"
+      link: "portfolio-pt.qmd"
+---
+
+Test test test

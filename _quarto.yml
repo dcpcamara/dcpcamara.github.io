@@ -2,11 +2,8 @@ project:
   type: website
   output-dir: "docs"
 
-profile: 
-  group: [english, portuguese]
-
 website:
-  title: "Daniel Cardoso Portela Câmara | Data Science | Epidemiology | Medical Entomology"
+  title: "Daniel Cardoso P. Câmara"
   site-url: https://dcpcamara.github.io
   description: "Website of Daniel Cardoso Portela Câmara, including his curriculum vitae (CV) and portfolio"
   navbar:
@@ -22,10 +19,10 @@ website:
         href: https://www.linkedin.com/in/daniel-câmara-5270732b3/
       - icon: github
         href: https://github.com/dcpcamara
-      - text: "🇬🇧 EN"
-        href: index.html
       - text: "🇧🇷 PT"
-        href: index-pt.html
+        href: index.html
+      - text: "🇬🇧 EN"
+        href: index-en.html
 format:
   html:
     theme: yeti

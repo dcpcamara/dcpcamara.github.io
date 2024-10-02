@@ -5,5 +5,12 @@
       "/posts/dashboard-infogripe/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/portfolio.en.html",
+    "items": [
+      "/posts/dashboard-infogripe/index.html",
+      "/posts/welcome/index.html"
+    ]
   }
 ]

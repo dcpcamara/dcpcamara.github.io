@@ -1,0 +1,24 @@
+---
+title: "Daniel C. P. Câmara - Data Science | Epidemiology | Medical Entomology"
+lang: en
+image: profile.jpeg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/daniel-câmara-5270732b3/
+    - icon: github
+      text: Github
+      href: https://github.com/dcpcamara
+multilingue:
+  languages: 
+    pt: 
+      label: "Português"
+      link: "index.html"
+    en: 
+      label: "English"
+      link: "index-en.html"
+---
+
+Daniel Câmara is a data scientist and epidemiologist with experience in statistical modeling, geoprocessing, and remote sensing. Holding a PhD in infectious disease epidemiology from the Oswaldo Cruz Foundation (FIOCRUZ), he has applied his skills in prominent international organizations such as the World Health Organization (WHO) and the University of Geneva. Daniel has a strong track record in harmonizing and analyzing complex datasets, contributing to the development of automated dashboards and reports that inform public health decisions. He is seeking new opportunities to continue applying his expertise in data science and epidemiology.
