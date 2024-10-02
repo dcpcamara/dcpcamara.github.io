@@ -1,5 +1,6 @@
 ---
-title: "my_website"
+title: "Portfólio"
+lang: pt
 listing:
   contents: posts
   sort: "date desc"
@@ -9,4 +10,12 @@ listing:
   filter-ui: false
 page-layout: full
 title-block-banner: true
+multilingue:
+  languages: 
+    pt: 
+      label: "Português"
+      link: "index.html"
+    en: 
+      label: "English"
+      link: "index-en.html"
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Daniel Cardoso Portela Câmara"
+lang: pt
 image: profile.jpeg
 about:
   template: jolla
@@ -10,6 +11,14 @@ about:
     - icon: github
       text: Github
       href: https://github.com/dcpcamara
+multilingue:
+  languages: 
+    pt: 
+      label: "Português"
+      link: "index.html"
+    en: 
+      label: "English"
+      link: "index-en.html"
 ---
 
 Daniel Câmara é um cientista de dados e epidemiologista com experiência em modelagem estatística, geoprocessamento e sensoriamento remoto. Com doutorado em epidemiologia de doenças infecciosas pela Fundação Oswaldo Cruz (FIOCRUZ), ele aplicou suas habilidades em importantes organizações internacionais, como a Organização Mundial da Saúde (OMS) e Universidade de Genebra. Daniel tem uma sólida trajetória na harmonização e análise de dados complexos, contribuindo para o desenvolvimento de dashboards e relatórios automatizados que informam decisões de saúde pública. Ele busca novas oportunidades para continuar aplicando seu conhecimento em ciência de dados e epidemiologia.

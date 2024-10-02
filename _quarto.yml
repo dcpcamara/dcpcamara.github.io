@@ -18,6 +18,10 @@ website:
         href: https://www.linkedin.com/in/daniel-câmara-5270732b3/
       - icon: github
         href: https://github.com/dcpcamara
+      - text: "🇧🇷 PT"
+        href: index.html
+      - text: "🇬🇧 EN"
+        href: index-en.html
 format:
   html:
     theme: yeti
