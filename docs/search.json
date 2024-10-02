@@ -1,35 +1,35 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Dashboard InfoGripe\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\nShiny\n\n\n\n\n\n\n\n\n\nOct 2, 2024\n\n\nDaniel C. P. Câmara\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 29, 2024\n\n\nDaniel C. P. Câmara\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index-pt.html",
+    "href": "index-pt.html",
     "title": "Daniel Cardoso Portela Câmara",
     "section": "",
     "text": "Daniel Câmara é um cientista de dados e epidemiologista com experiência em modelagem estatística, geoprocessamento e sensoriamento remoto. Com doutorado em epidemiologia de doenças infecciosas pela Fundação Oswaldo Cruz (FIOCRUZ), ele aplicou suas habilidades em importantes organizações internacionais, como a Organização Mundial da Saúde (OMS) e Universidade de Genebra. Daniel tem uma sólida trajetória na harmonização e análise de dados complexos, contribuindo para o desenvolvimento de dashboards e relatórios automatizados que informam decisões de saúde pública. Ele busca novas oportunidades para continuar aplicando seu conhecimento em ciência de dados e epidemiologia."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
+    "objectID": "posts/dashboard-infogripe/index.html",
+    "href": "posts/dashboard-infogripe/index.html",
     "title": "Dashboard InfoGripe",
     "section": "",
-    "text": "Nesse projeto, trabalhei com a construção de uma Dashboard interativa para visualização rápida dos principais resultados obtidos semanalmente pelo projeto InfoGripe. Essa dashboard é atualizada automaticamente quando há um novo relatório InfoGripe disponível.\nLink para o dashboard.\nLink para o código pode ser obtido aqui."
+    "text": "In this project, I worked on building an interactive dashboard for quick visualization of the main results obtained weekly by the InfoGripe project. This dashboard is automatically updated whenever a new InfoGripe report is available.\nLink to the dashboard.\nThe code can be accessed here.\n\nNesse projeto, trabalhei com a construção de uma Dashboard interativa para visualização rápida dos principais resultados obtidos semanalmente pelo projeto InfoGripe. Essa dashboard é atualizada automaticamente quando há um novo relatório InfoGripe disponível.\nLink para o dashboard.\nLink para o código pode ser obtido aqui."
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Welcome! I expect to provide helpful insights with my portfolio and hopefully get some feedback and contact from you. Feel free to drop by my LinkedIn profile.\n\nBem-vindo(a)! Espero fornecer insights úteis com meu portfólio e espero obter algum feedback e contato seu. Sinta-se à vontade para visitar meu perfil do LinkedIn."
   },
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Portfólio",
-    "section": "",
-    "text": "Dashboard InfoGripe\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\nShiny\n\n\n\n\n\n\n\n\n\n2 de out. de 2024\n\n\nDaniel C. P. Câmara\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n29 de set. de 2024\n\n\nDaniel C. P. Câmara\n\n\n\n\n\n\nNenhum item correspondente"
-  },
-  {
-    "objectID": "index-en.html",
-    "href": "index-en.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Daniel Cardoso Portela Câmara",
     "section": "",
     "text": "Daniel Câmara is a data scientist and epidemiologist with experience in statistical modeling, geoprocessing, and remote sensing. Holding a PhD in infectious disease epidemiology from the Oswaldo Cruz Foundation (FIOCRUZ), he has applied his skills in prominent international organizations such as the World Health Organization (WHO) and the University of Geneva. Daniel has a strong track record in harmonizing and analyzing complex datasets, contributing to the development of automated dashboards and reports that inform public health decisions. He is seeking new opportunities to continue applying his expertise in data science and epidemiology."

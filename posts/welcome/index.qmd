@@ -5,8 +5,8 @@ date: "2024-09-29"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Welcome! I expect to provide helpful insights with my portfolio and hopefully get some feedback and contact from you. Feel free to drop by my [LinkedIn profile](https://www.linkedin.com/in/daniel-câmara-5270732b3/){target="_blank"}.
 
-![](thumbnail.jpg)
+---
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Bem-vindo(a)! Espero fornecer insights úteis com meu portfólio e espero obter algum feedback e contato seu. Sinta-se à vontade para visitar meu [perfil do LinkedIn](https://www.linkedin.com/in/daniel-câmara-5270732b3/){target="_blank"}.

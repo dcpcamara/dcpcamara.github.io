@@ -1,6 +1,6 @@
 ---
-title: "Portfólio"
-lang: pt
+title: "Portfolio"
+lang: en
 listing:
   contents: posts
   sort: "date desc"
@@ -8,14 +8,15 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
+  feed: true
 page-layout: full
 title-block-banner: true
 multilingue:
   languages: 
-    pt: 
-      label: "Português"
-      link: "index.html"
     en: 
       label: "English"
-      link: "index-en.html"
+      link: "portfolio.qmd"
+    pt: 
+      label: "Português"
+      link: "portfolio-pt.qmd"
 ---

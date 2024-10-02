@@ -1,0 +1,32 @@
+---
+title: "Dashboard InfoGripe"
+author: "Daniel C. P. Câmara"
+date: "2024-10-02"
+categories: [code, analysis, R, Shiny]
+image: "image.jpg"
+lang: en
+multilingue:
+  languages: 
+    en: 
+      label: "English"
+      link: "index-en.qmd"
+    pt: 
+      label: "Português"
+      link: "index.qmd"
+---
+
+
+In this project, I worked on building an interactive dashboard for quick visualization of the main results obtained weekly by the InfoGripe project. This dashboard is automatically updated whenever a new InfoGripe report is available.
+
+Link to the [dashboard](https://danielcamara.shinyapps.io/dashboard_infogripe_-_online/){target="_blank"}.
+
+The code can be accessed [here](https://github.com/dcpcamara/Dashboard-InfoGripe---Online){target="_blank"}.
+
+------------------------------------------------------------------------
+
+Nesse projeto, trabalhei com a construção de uma Dashboard interativa para visualização rápida dos principais resultados obtidos semanalmente pelo projeto InfoGripe. Essa dashboard é atualizada automaticamente quando há um novo relatório InfoGripe disponível.
+
+Link para o [dashboard](https://danielcamara.shinyapps.io/dashboard_infogripe_-_online/){target="_blank"}.
+
+Link para o código pode ser obtido [aqui](https://github.com/dcpcamara/Dashboard-InfoGripe---Online){target="_blank"}.
+

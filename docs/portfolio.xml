@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Daniel Cardoso Portela Câmara | Data Science | Epidemiology | Medical Entomology</title>
+<link>https://dcpcamara.github.io/portfolio.html</link>
+<atom:link href="https://dcpcamara.github.io/portfolio.xml" rel="self" type="application/rss+xml"/>
+<description>Website of Daniel Cardoso Portela Câmara, including his curriculum vitae (CV) and portfolio</description>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Wed, 02 Oct 2024 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Dashboard InfoGripe</title>
+  <dc:creator>Daniel C. P. Câmara</dc:creator>
+  <link>https://dcpcamara.github.io/posts/dashboard-infogripe/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In this project, I worked on building an interactive dashboard for quick visualization of the main results obtained weekly by the InfoGripe project. This dashboard is automatically updated whenever a new InfoGripe report is available.</p>
+<p>Link to the <a href="https://danielcamara.shinyapps.io/dashboard_infogripe_-_online/" target="_blank">dashboard</a>.</p>
+<p>The code can be accessed <a href="https://github.com/dcpcamara/Dashboard-InfoGripe---Online" target="_blank">here</a>.</p>
+<hr>
+<p>Nesse projeto, trabalhei com a construção de uma Dashboard interativa para visualização rápida dos principais resultados obtidos semanalmente pelo projeto InfoGripe. Essa dashboard é atualizada automaticamente quando há um novo relatório InfoGripe disponível.</p>
+<p>Link para o <a href="https://danielcamara.shinyapps.io/dashboard_infogripe_-_online/" target="_blank">dashboard</a>.</p>
+<p>Link para o código pode ser obtido <a href="https://github.com/dcpcamara/Dashboard-InfoGripe---Online" target="_blank">aqui</a>.</p>
+
+
+
+ ]]></description>
+  <category>code</category>
+  <category>analysis</category>
+  <category>R</category>
+  <category>Shiny</category>
+  <guid>https://dcpcamara.github.io/posts/dashboard-infogripe/</guid>
+  <pubDate>Wed, 02 Oct 2024 03:00:00 GMT</pubDate>
+  <media:content url="https://dcpcamara.github.io/posts/dashboard-infogripe/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Daniel C. P. Câmara</dc:creator>
+  <link>https://dcpcamara.github.io/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Welcome! I expect to provide helpful insights with my portfolio and hopefully get some feedback and contact from you. Feel free to drop by my <a href="https://www.linkedin.com/in/daniel-câmara-5270732b3/" target="_blank">LinkedIn profile</a>.</p>
+<hr>
+<p>Bem-vindo(a)! Espero fornecer insights úteis com meu portfólio e espero obter algum feedback e contato seu. Sinta-se à vontade para visitar meu <a href="https://www.linkedin.com/in/daniel-câmara-5270732b3/" target="_blank">perfil do LinkedIn</a>.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://dcpcamara.github.io/posts/welcome/</guid>
+  <pubDate>Sun, 29 Sep 2024 03:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
