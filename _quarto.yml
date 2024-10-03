@@ -3,7 +3,7 @@ project:
   output-dir: "docs"
 
 website:
-  title: "Daniel Cardoso P. Câmara"
+  title: "Daniel C. P. Câmara - Data Science | Statistical Modelling | Epidemiology"
   site-url: https://dcpcamara.github.io
   description: "Website of Daniel Cardoso Portela Câmara, including his curriculum vitae (CV) and portfolio"
   navbar:

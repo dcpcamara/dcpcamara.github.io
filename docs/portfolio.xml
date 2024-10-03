@@ -5,12 +5,39 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Daniel Cardoso P. Câmara</title>
+<title>Daniel C. P. Câmara - Data Science | Statistical Modelling | Epidemiology</title>
 <link>https://dcpcamara.github.io/portfolio.html</link>
 <atom:link href="https://dcpcamara.github.io/portfolio.xml" rel="self" type="application/rss+xml"/>
 <description>Website of Daniel Cardoso Portela Câmara, including his curriculum vitae (CV) and portfolio</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Wed, 02 Oct 2024 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 03 Oct 2024 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Dashboard WHO AFRO</title>
+  <dc:creator>Daniel C. P. Câmara</dc:creator>
+  <link>https://dcpcamara.github.io/posts/dashboard-who-afro/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Este dashboard foi uma das muitas atividades realizadas quando eu trabalhei no escritório para a Região África da hashtag#OMS. A ideia era termos um painel que todos os colaboradores do escritório e países pudessem rapidamente ter acesso a uma fonte confiável de informação. Isso foi crucial durante a resposta à pandemia por Covid-19, visto que alguns países não possuíam pessoal treinado para produzir suas próprias análises em um curto prazo. O trabalho foi dividido junto ao amigo Lucas Bianchi, em 2022-2023.</p>
+<p><a href="https://afro-who.shinyapps.io/Covid19/" target="_blank">Escrito em R e Shiny</a>.</p>
+<hr>
+<p>This dashboard was one of the many activities carried out when I worked in the office for the hashtag#WHO Africa Region. The idea was to have a dashboard that all office staff and countries could quickly access as a reliable source of information. This was crucial during the response to the Covid-19 pandemic, as some countries did not have the trained staff to produce their own analyses in a short time. The work was shared with my friend Lucas Bianchi, in 2022-2023.</p>
+<p><a href="https://afro-who.shinyapps.io/Covid19/" target="_blank">Written in R and Shiny</a>.</p>
+
+
+
+ ]]></description>
+  <category>code</category>
+  <category>analysis</category>
+  <category>R</category>
+  <category>Shiny</category>
+  <guid>https://dcpcamara.github.io/posts/dashboard-who-afro/</guid>
+  <pubDate>Thu, 03 Oct 2024 03:00:00 GMT</pubDate>
+  <media:content url="https://dcpcamara.github.io/posts/dashboard-who-afro/image.png" medium="image" type="image/png" height="73" width="144"/>
+</item>
 <item>
   <title>Dashboard InfoGripe</title>
   <dc:creator>Daniel C. P. Câmara</dc:creator>

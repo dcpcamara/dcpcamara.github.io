@@ -1,5 +1,5 @@
 ---
-title: "Daniel C. P. Câmara - Data Science | Epidemiology | Medical Entomology"
+title: "Daniel Cardoso Portela Câmara"
 lang: en
 image: profile.jpeg
 about:

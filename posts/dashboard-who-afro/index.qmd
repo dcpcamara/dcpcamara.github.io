@@ -1,0 +1,26 @@
+---
+title: "Dashboard WHO AFRO"
+author: "Daniel C. P. Câmara"
+date: "2024-10-03"
+categories: [code, analysis, R, Shiny]
+image: "image.png"
+lang: en
+multilingue:
+  languages: 
+    en: 
+      label: "English"
+      link: "index-en.qmd"
+    pt: 
+      label: "Português"
+      link: "index.qmd"
+---
+
+Este dashboard foi uma das muitas atividades realizadas quando eu trabalhei no escritório para a Região África da hashtag#OMS. A ideia era termos um painel que todos os colaboradores do escritório e países pudessem rapidamente ter acesso a uma fonte confiável de informação. Isso foi crucial durante a resposta à pandemia por Covid-19, visto que alguns países não possuíam pessoal treinado para produzir suas próprias análises em um curto prazo. O trabalho foi dividido junto ao amigo Lucas Bianchi, em 2022-2023.
+
+[Escrito em R e Shiny](https://afro-who.shinyapps.io/Covid19/){target="_blank"}.
+
+---
+
+This dashboard was one of the many activities carried out when I worked in the office for the hashtag#WHO Africa Region. The idea was to have a dashboard that all office staff and countries could quickly access as a reliable source of information. This was crucial during the response to the Covid-19 pandemic, as some countries did not have the trained staff to produce their own analyses in a short time. The work was shared with my friend Lucas Bianchi, in 2022-2023.
+
+[Written in R and Shiny](https://afro-who.shinyapps.io/Covid19/){target="_blank"}.
