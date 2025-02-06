@@ -10,7 +10,34 @@
 <atom:link href="https://dcpcamara.github.io/portfolio.xml" rel="self" type="application/rss+xml"/>
 <description>Website of Daniel Cardoso Portela Câmara, including his curriculum vitae (CV) and portfolio</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Thu, 03 Oct 2024 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 06 Feb 2025 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Agente de IA do InfoGripe</title>
+  <dc:creator>Daniel C. P. Câmara</dc:creator>
+  <link>https://dcpcamara.github.io/posts/ai-agent-infogripe/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Tenho trabalhado há alguns meses para criar um robô autônomo, capaz de realizar análises para o projeto <a href="http://info.gripe.fiocruz.br">InfoGripe</a> (incluindo estatísticas, testes de hipótese simples e produção de gráficos). O projeto já está em fase relativamente avançada, necessitando ainda de testes para acertar alguns detalhes. Compartilho o código para quem tiver interesse em criar robôs usando a API do OpenAI. Este agente é especializado em análise de dataframes em Pandas.</p>
+<p>Link para o código pode ser obtido <a href="https://github.com/dcpcamara/AI-Agent" target="_blank">aqui</a>.</p>
+<hr>
+<p>I have been working for a few months to create an autonomous bot capable of performing analyses for the <a href="http://info.gripe.fiocruz.br">InfoGripe</a> project (including statistics, simple hypothesis testing, and graph production). The project is already in a relatively advanced stage, still requiring some testing to fine-tune a few details. I am sharing the code for anyone interested in creating bots using the OpenAI API. This agent is specialized in analyzing dataframes with Pandas.</p>
+<p>The code can be accessed <a href="https://github.com/dcpcamara/AI-Agent" target="_blank">here</a>.</p>
+
+
+
+ ]]></description>
+  <category>code</category>
+  <category>AI</category>
+  <category>Python</category>
+  <category>Langchain</category>
+  <guid>https://dcpcamara.github.io/posts/ai-agent-infogripe/</guid>
+  <pubDate>Thu, 06 Feb 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://dcpcamara.github.io/posts/ai-agent-infogripe/image.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Dashboard WHO AFRO</title>
   <dc:creator>Daniel C. P. Câmara</dc:creator>

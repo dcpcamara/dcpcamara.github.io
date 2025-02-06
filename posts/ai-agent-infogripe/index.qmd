@@ -2,7 +2,7 @@
 title: "Agente de IA do InfoGripe"
 author: "Daniel C. P. Câmara"
 date: "2025-02-06"
-categories: [code, analysis, R, Shiny]
+categories: [code, AI, Python, Langchain]
 image: "image.jpg"
 lang: en
 multilingue:
@@ -15,7 +15,7 @@ multilingue:
       link: "index.qmd"
 ---
 
-Tenho trabalhado há alguns meses para criar um robô autônomo, capaz de realizar análises para o projeto [InfoGripe](http://info.gripe.fiocruz.br) (incluindo estatísticas, testes de hipótese simples e produção de gráficos). O projeto já está em fase relativamente avançada, necessitando ainda de testes para acertar alguns detalhes. Compartilho o código para quem tiver interesse em criar robôs usando a API do OpenAI. Este agente é especializado em análise de dataframes em Pandas. 
+Tenho trabalhado há alguns meses para criar um robô autônomo, capaz de realizar análises para o projeto [InfoGripe](http://info.gripe.fiocruz.br) (incluindo estatísticas, testes de hipótese simples e produção de gráficos). O projeto já está em fase relativamente avançada, necessitando ainda de testes para acertar alguns detalhes. Compartilho o código para quem tiver interesse em criar robôs usando a API do OpenAI. Este agente é especializado em análise de dataframes em Pandas.
 
 Link para o código pode ser obtido [aqui](https://github.com/dcpcamara/AI-Agent){target="_blank"}.
 
